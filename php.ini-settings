@@ -1,0 +1,8 @@
+<pre>
+ max_input_vars (default is 1000) set to 3000
+ post_max_size (default is “8M”) set to 2000M
+ upload_max_filesize (default is “2M”) set to 64M
+ max_execution_time (default is “30”) set to 360
+ max_input_time (default is “-1”) set to 180
+ memory_limit (default is “128M”) set to 3000M
+</pre>
